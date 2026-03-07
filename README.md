@@ -7,10 +7,10 @@ This repository contains my HTML and CSS practice exercises as I learn frontend 
 - **Button Designs**: Various styled buttons with different colors, borders, and effects (Subscribe, Join, Tweet buttons)
 - **CSS Exercises**: Styling practice for common UI elements
   - Amazon-style buttons and elements
-  - LinkedIn-inspired designs
-  - GitHub-style components
-  - Bootstrap practice
-  - Uber-style elements
+  - LinkedIn-style buttons and elements
+  - GitHub-style buttons and elements
+  - Bootstrap-style buttons and elements
+  - Uber-style buttons and elements
 - **HTML Basics**: Fundamental HTML practice including links, paragraphs, and page structure
 - **Website Templates**: Practice website layouts and structures
 
